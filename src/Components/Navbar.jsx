@@ -9,7 +9,7 @@ export default function Navbar() {
 
   return (
     <>
-      <div className="border-1 text-center">
+      <div className="border text-center">
         {navLinks.map((link) => (
           <a key={link.url} href={link.url} className="text-white mr-4 text-2xl">
             {link.label}
