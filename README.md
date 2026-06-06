@@ -1,3 +1,18 @@
+# PIVOT - Personalized Innovation in Tech
+This project currently barely has anything done i'm still working on the landing page. 
+It is still in the planning phase it's also my first project using (VITE) i'm only used to nextjs 
+I'm Very much well still learning and i am hoping that in the future it would be complete and help others in the future.
+
+## Currently Done Stuff
+1. Navbar
+2. Partial Footer
+3. A Maybe signin page not navigating and still needs styling
+#### Project still has a lot of work to be done 
+###### Will keep you updated
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
