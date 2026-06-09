@@ -7,8 +7,16 @@ I'm Very much well still learning and i am hoping that in the future it would be
 1. Navbar
 2. Partial Footer
 3. A Maybe signin page not navigating and still needs styling
+
+## Update
+1. Footer Done
+2. A New Section Added in the main page
+
+==It Still Needs a lot of work to be done==
+- Overtime as new features gets added there will be other .md files that would be added.
 #### Project still has a lot of work to be done 
 ###### Will keep you updated
+
 
 
 
