@@ -36,14 +36,47 @@ export default function App() {
           </div>
         </div>
 
-        <section className="min-h-dvh bg-amber-400 flex items-start pt-10 justify-center gap-6 text-center px-6">
-          <div className="px-4 py-3 bg-white/8 rounded-lg text-2xl text-white/95 font-medium">
-            <h1 className="font-black">WHAT TO EXPECT FROM US</h1>
-            {/* <div className="flex-col"> */}
-              <div className="min-h-45 min-w-1/2 backdrop:backdrop-blur-2xl bg-stone-700"></div>
-              <div>YOOO</div>
-              <div>WHATSUPP</div>
-            {/* </div> */}
+        <section className="min-h-dvh bg-gradient-to-b from-yellow-300 to-orange-600 flex flex-col items-center justify-center px-6 py-16">
+          <div className="max-w-4xl w-full">
+            <div className="mb-12">
+              <h2 className="text-4xl sm:text-5xl md:text-6xl font-black text-white drop-shadow-lg mb-8">
+                WHAT TO EXPECT FROM US
+              </h2>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
+                <h3 className="text-2xl font-bold text-white mb-3">
+                  Innovation
+                </h3>
+                <p className="text-white/90">
+                  Cutting-edge solutions tailored to your needs
+                </p>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
+                <h3 className="text-2xl font-bold text-white mb-3">Quality</h3>
+                <p className="text-white/90">
+                  Thoughtful design and robust development
+                </p>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
+                <h3 className="text-2xl font-bold text-white mb-3">
+                  Scalability
+                </h3>
+                <p className="text-white/90">
+                  Solutions that grow with your business
+                </p>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 hover:bg-white/20 transition-all duration-300">
+                <h3 className="text-2xl font-bold text-white mb-3">Support</h3>
+                <p className="text-white/90">
+                  Dedicated partnership every step of the way
+                </p>
+              </div>
+            </div>
           </div>
         </section>
       </main>
