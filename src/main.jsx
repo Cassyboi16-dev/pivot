@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import Navbar from './Components/Navbar.jsx'
 import Footer from './Components/Footer.jsx'
-import SignIn from './signin/page.jsx'
+
 
 
 createRoot(document.getElementById('root')).render(
@@ -12,6 +12,5 @@ createRoot(document.getElementById('root')).render(
     <Navbar/>
     <App />
     <Footer/>
-    <SignIn/>
   </StrictMode>,
 )
