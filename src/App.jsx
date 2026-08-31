@@ -1,4 +1,5 @@
 "use client";
+
 // import Navbar from "./Components/Navbar";
 import "./index.css";
 
@@ -6,7 +7,7 @@ export default function App() {
   return (
     <>
       <main className="">
-        <div className="bg-gradient-to-br from-indigo-600 via-cyan-500 to-emerald-400 min-h-dvh flex flex-col items-center justify-center gap-6 text-center px-6">
+        <div className="bg-emerald-400 min-h-dvh flex flex-col items-center justify-center gap-6 text-center px-6">
           <h1
             id="Heading"
             className="uppercase text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-extrabold text-white drop-shadow-md"
